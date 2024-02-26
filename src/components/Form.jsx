@@ -41,7 +41,7 @@ const Form = () => {
                                         Email
                                     </label>
                                     <input
-                                        class="w-full rounded-lg border-gray-200 p-3 text-sm"
+                                        class="border-gray-00 w-full rounded-lg p-3 text-sm"
                                         placeholder="Email address"
                                         type="email"
                                         id="email"
@@ -65,7 +65,7 @@ const Form = () => {
                                 <div>
                                     <label
                                         for="Option1"
-                                        class="hover:border-blue has-[:checked]:border-blue has-[:checked]:bg-blue block w-full cursor-pointer rounded-lg border border-gray-200 p-3 text-gray-600 has-[:checked]:text-white"
+                                        class="hover:border-blue has-[:checked]:border-blue has-[:checked]:bg-blue block w-full cursor-pointer rounded-lg p-3 text-gray-600 has-[:checked]:text-white"
                                         tabindex="0"
                                     >
                                         <input
